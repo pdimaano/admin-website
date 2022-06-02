@@ -167,7 +167,7 @@ export default class extends Component {
                             </div>
                             <div className="sitemap-form-section">
                                 <div className="sitemap-form-title">
-                                    <span>Ping Serach Engines</span>
+                                    <span>Ping Search Engines</span>
                                 </div>
                                 <div className="sitemap-form-description">
                                     <span>This will ping Google and Bing to let them know the sitemap has been updated</span>
